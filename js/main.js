@@ -11,13 +11,16 @@
 
 // let str = "salom dunyo";
 
-// let newStirng = str.split("");
+// function myFunction(array){
+//     let newStr = str.split("")
 
-// let reverseString = newStirng.reverse();
+//     for(i = 0; i < array.length; i++){
+//         newStr.reverse()
+//     }
+//     console.log(newStr.join(""));
+// }
 
-// let joinString = reverseString.join("");
-
-// console.log(reverseString.toString());
+// myFunction(str)
 
 
 
